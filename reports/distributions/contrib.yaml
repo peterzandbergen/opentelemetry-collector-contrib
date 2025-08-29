@@ -46,7 +46,6 @@ components:
         - logicmonitor
         - logzio
         - mezmo
-        - opencensus
         - opensearch
         - otelarrow
         - prometheus
@@ -193,7 +192,6 @@ components:
         - nginx
         - nsxt
         - ntp
-        - opencensus
         - oracledb
         - otelarrow
         - otlpjsonfile
